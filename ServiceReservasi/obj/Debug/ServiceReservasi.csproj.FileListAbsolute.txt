@@ -1,0 +1,7 @@
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll.config
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.pdb
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.dll
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\08\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.pdb

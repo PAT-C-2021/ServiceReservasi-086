@@ -20,7 +20,7 @@ namespace ServiceReservasi
             string a = "gagal";
             try
             {
-                string sql = "DELETE FROM dbo.Pemesanan WHERE ID_Reservasi = '" + IDPemesanan + "' )";
+                string sql = "DELETE FROM dbo.Pemesanan WHERE ID_Reservasi = '" + IDPemesanan + "'";
                 connection = new SqlConnection(constring);
                 com = new SqlCommand(sql, connection);
                 connection.Open();
@@ -69,7 +69,7 @@ namespace ServiceReservasi
             string a = "gagal";
             try
             {
-                string sql = "UPDATE dbo.Pemesanan SET Nama_Customer = '" + NamaCustomer + "', No_Telpon = '" + No_Telpon + "' WHERE ID_Reservasi = '" + IDPemesanan + "' )";
+                string sql = "UPDATE dbo.Pemesanan SET Nama_Customer = '" + NamaCustomer + "', No_Telpon = '" + No_Telpon + "' WHERE ID_Reservasi = '" + IDPemesanan + "'";
                 connection = new SqlConnection(constring);
                 com = new SqlCommand(sql, connection);
                 connection.Open();
